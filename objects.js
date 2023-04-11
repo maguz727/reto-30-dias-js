@@ -1,1 +1,1 @@
-// Este es un archivo creado desde github para paracticar desde mi equipo los comandos de 
+// Este es un archivo creado desde github para paracticar desde mi equipo los comandos de fecth, merge y pull
